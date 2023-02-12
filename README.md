@@ -15,7 +15,7 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 
 ### A Student, Developer, Writer and Photographer 
 
-<img align="right" alt="GIF" src="coder.png" width="500" height="320" />
+<img align="right" alt="GIF" src="Coder.png" width="500" height="320" />
 
 #### Talking about my personal stuff:
 

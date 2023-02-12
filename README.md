@@ -1,33 +1,7 @@
-### Hey there, I'm  Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> I'm  Waqas
 
-<div align="center">
-<p align="center">Let's connect!</p>
-<a href="https://www.twitter.com/mhmzdev/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+I’m a self-employed Mobile App Developer and I create blog posts regarding Android, Flutter, and Firebase on my weekends.
 
-<a href="https://www.instagram.com/mhmzdev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mhmzdev/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://mhmzdev.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/mhmzdev/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://stackoverflow.com/users/12297382/hamza">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-</div>
-
-<br>
 
 <!-- <div align="center">
 <p align="center">Nominate me as GitHub Star ⭐</p>
@@ -39,9 +13,9 @@
 </div> -->
 
 
-### A Student, Developer & Writer
+### A Student, Developer, Writer and Photographer 
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="coder.png" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
@@ -108,3 +82,34 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [profile]: https://mhmz.dev
 [medium]: https://mhmzdev.medium.com/
 [dribbble]: https://dribbble.com/mhmzdev
+
+
+
+<div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://www.twitter.com/mhmzdev/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/mhmzdev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mhmzdev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://mhmzdev.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/mhmzdev/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/12297382/hamza">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+</div>
+
+<br>

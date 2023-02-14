@@ -87,12 +87,6 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 
 </div>
 
-<br>
-
-<summary>📝 My GitHub Stats</summary>
-<br>
-
-
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 

@@ -2,6 +2,34 @@
 
 I’m a self-employed Mobile App Developer and I create blog posts regarding Android, Flutter, and Firebase on my weekends.
 
+<div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://twitter.com/waqasyounis334">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/waqas.png/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/waqas-younis-3587a9119/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@waqasyounis334">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/WaqasYounis3343">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/9995125/waqas-younis">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+</div>
+
+<br>
 
 <!-- <div align="center">
 <p align="center">Nominate me as GitHub Star ⭐</p>
@@ -15,28 +43,26 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 
 ### A Student, Developer, Writer and Photographer 
 
-<img align="right" alt="GIF" src="code_blue.png" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/waqas-334/waqas-334/main/code_blue.png" width="320" height="320" />
 
-#### Talking about my personal stuff:
+#### Talking about my stuff:
 
-- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
-- 👉 Leading [Flutter Islamabad][flutter_isb]
-- 💻 The tech I'm interested Flutter/ML/AR etc.
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 Live [Portfolio][profile]
+- 🧑‍🎓 Studying Masters in Software Engineering at [MUN](https://mun.ca)
+- 🙋‍♂️ Running [Private Browser](https://incognitobrowser.app) for Android having more than 2M downloads
+- 💻 The tech I'm interested Flutter/Android/Kotlin etc.
+- ✍ Technical writer at [Medium](https://medium.com/@waqasyounis334)
+- 📱 Geo based social media platform app build for client. It's called [TownMesh.com][quran]
+- 📷 I'm learning photography as well, checkout my [instagram here](https://instagram.com/waqas.png)
 - 🎨 [Dribbble][dribbble] profile
+
 
 #### ✍ Medium Blog Posts
 
 <!-- MEDIUM-STORY-LIST:START -->
-- [flutter.py | Kings on both -end](https://mhmzdev.medium.com/flutter-py-kings-on-both-end-90917c0b4c43?source=rss-198dec8dcf4a------2)
-- [Flutter3 &amp; Web3 | Metamask Integration](https://mhmzdev.medium.com/flutter3-web3-metamask-integration-838acf654276?source=rss-198dec8dcf4a------2)
-- [Should I learn Dart before Flutter?](https://itnext.io/should-i-learn-dart-before-flutter-55893ab9ca84?source=rss-198dec8dcf4a------2)
-- [Integrate Medium Blog Feed in Flutter App — MVC Architecture](https://itnext.io/integrate-medium-blog-feed-in-flutter-app-mvc-architecture-3e0b3c90bfa3?source=rss-198dec8dcf4a------2)
-- [Folio — Responsive Portfolio using Flutter 2.0](https://itnext.io/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f?source=rss-198dec8dcf4a------2)
+- [Learn each operation you can perform on Firebase](https://medium.com/@waqasyounis334/firebase-realtime-database-fb17becd8c58)
+- [What is Firebase | 13 Reasons to master it](https://medium.com/@waqasyounis334/what-is-firebase-15-reasons-to-master-it-794b49b2cc3e)
+- [Force your users to update the app](https://medium.com/@waqasyounis334/force-your-users-to-update-your-android-app-6a76954bfddf)
+- [Implementing Firebase notification within 120 seconds](https://medium.com/@waqasyounis334/implement-firebase-push-notification-in-android-within-120-seconds-a8145c787248)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- ### Languages & Tools
@@ -66,50 +92,8 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
-
-
 
 
 Open Source Contributor from <b>Pakistan<b> 💚 
 
-![](https://visitor-badge.glitch.me/badge?page_id=mhmzdev.mhmzdev)
-
-
-[quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
-[profile]: https://mhmz.dev
-[medium]: https://mhmzdev.medium.com/
-[dribbble]: https://dribbble.com/mhmzdev
-
-
-
-<div align="center">
-<p align="center">Let's connect!</p>
-<a href="https://www.twitter.com/mhmzdev/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/mhmzdev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/mhmzdev/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://mhmzdev.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/mhmzdev/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://stackoverflow.com/users/12297382/hamza">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-</div>
-
-<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=waqas-334.waqas-334)

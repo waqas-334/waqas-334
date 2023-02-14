@@ -49,11 +49,11 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 
 - 🧑‍🎓 Studying Masters in Software Engineering at [MUN](https://mun.ca)
 - 🙋‍♂️ Running [Private Browser](https://incognitobrowser.app) for Android having more than 2M downloads
-- 💻 The tech I'm interested Flutter/Android/Kotlin etc.
 - ✍ Technical writer at [Medium](https://medium.com/@waqasyounis334)
-- 📱 Geo based social media platform app build for client. It's called [TownMesh.com][quran]
+- 💻 The tech I'm interested Flutter/Android/Kotlin etc.
+- 📱Freelance Mobile App Developer at [Upwork](https://www.upwork.com/freelancers/~017030cd44ee04dabe)
 - 📷 I'm learning photography as well, checkout my [instagram here](https://instagram.com/waqas.png)
-- 🎨 [Dribbble][dribbble] profile
+- 🎨 [Dribbble](https://dribbble.com/waqas3343) profile
 
 
 #### ✍ Medium Blog Posts

@@ -45,15 +45,25 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/waqas-334/waqas-334/main/code_blue.png" width="320" height="320" />
 
-#### Talking about my stuff:
+### Talking about my stuff:
 
 - 🧑‍🎓 Studying Masters in Software Engineering at [MUN](https://mun.ca)
-- 🙋‍♂️ Running [Private Browser](https://incognitobrowser.app) for Android having more than 2M downloads
 - ✍ Technical writer at [Medium](https://medium.com/@waqasyounis334)
 - 💻 The tech I'm interested Flutter/Android/Kotlin etc.
 - 📱Freelance Mobile App Developer at [Upwork](https://www.upwork.com/freelancers/~017030cd44ee04dabe)
 - 📷 I'm learning photography as well, checkout my [instagram here](https://instagram.com/waqas.png)
 - 🎨 [Dribbble](https://dribbble.com/waqas3343) profile
+
+#### Apps I developed
+1. [Incognito Browser](https://incognitobrowser.app/) | Java, Kotlin | **2M+ Downloads**
+2. [Volume Booster](https://play.google.com/store/apps/details?id=com.umac.volumebooster) | Java | **100K+ Downloads**
+3. [Calculator Photo Vault](https://play.google.com/store/apps/details?id=com.androidbull.calculator.photo.vault) | Kotlin | **50K+ Downloads**
+4. [English Pronunciation](https://play.google.com/store/apps/details?id=com.androidbull.mypronounce) | Java, Kotlin, Firebase | **50K+ Downloads**
+5. [Meme Generator](https://play.google.com/store/apps/details?id=com.androidbull.meme.maker) | Kotlin, Firebase | **10K+ Downloads**
+6. [TownMesh - geo based social media app](https://townmesh.com) | Flutter, Firebase | **Upwork Project**
+7. [BiSell](https://github.com/waqas-334/BiSell) - a marketplace to buy/sell computer componenets | Flutter, Firebase | **Open Source**
+
+
 
 
 #### ✍ Medium Blog Posts

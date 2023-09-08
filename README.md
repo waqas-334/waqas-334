@@ -73,6 +73,7 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 - [What is Firebase | 13 Reasons to master it](https://medium.com/@waqasyounis334/what-is-firebase-15-reasons-to-master-it-794b49b2cc3e)
 - [Force your users to update the app](https://medium.com/@waqasyounis334/force-your-users-to-update-your-android-app-6a76954bfddf)
 - [Implementing Firebase notification within 120 seconds](https://medium.com/@waqasyounis334/implement-firebase-push-notification-in-android-within-120-seconds-a8145c787248)
+- [Downloading HLS Files in Android](https://medium.com/towardsdev/downloading-hls-files-in-android-b5365196c57)
 <!-- MEDIUM-STORY-LIST:END -->
 
 <!-- ### Languages & Tools

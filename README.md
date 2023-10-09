@@ -57,7 +57,7 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 #### Apps
 1. [Incognito Browser](https://incognitobrowser.app/) | Java, Kotlin | **2M+ Downloads**
 2. [Volume Booster](https://play.google.com/store/apps/details?id=com.umac.volumebooster) | Java | **100K+ Downloads**
-3. [Avatarist] (https://play.google.com/store/apps/details?id=com.businessapps.avatarmakerapp) | Dart | Flutter **100K+ Downloads**
+3. [Avatarist](https://play.google.com/store/apps/details?id=com.businessapps.avatarmakerapp) | Dart | Flutter **100K+ Downloads**
 4. [Calculator Photo Vault](https://play.google.com/store/apps/details?id=com.androidbull.calculator.photo.vault) | Kotlin | **50K+ Downloads**
 5. [English Pronunciation](https://play.google.com/store/apps/details?id=com.androidbull.mypronounce) | Java, Kotlin, Firebase | **50K+ Downloads**
 6. [Meme Generator](https://play.google.com/store/apps/details?id=com.androidbull.meme.maker) | Kotlin, Firebase | **10K+ Downloads**

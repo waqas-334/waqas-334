@@ -62,11 +62,12 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 5. [English Pronunciation](https://play.google.com/store/apps/details?id=com.androidbull.mypronounce) | Java, Kotlin, Firebase | **50K+ Downloads**
 6. [Meme Generator](https://play.google.com/store/apps/details?id=com.androidbull.meme.maker) | Kotlin, Firebase | **10K+ Downloads**
 7. [TownMesh - geo based social media app](https://townmesh.com) | Flutter, Firebase | **Upwork Project**
-8. [BiSell](https://github.com/waqas-334/BiSell) - a marketplace to buy/sell computer components | Flutter, Firebase | **Open Source**
+   
 
 ### Repos
 1. [HLS2MP4](https://github.com/waqas-334/HLS2MP4) | Library to resolve and download HLS files | Kotlin
 2. [MVVM TODO App](https://github.com/waqas-334/MVVM-TODO-Android-app) | A minimal Todo App | Kotlin
+3. [BiSell](https://github.com/waqas-334/BiSell) - a marketplace to buy/sell computer components | Flutter, Firebase | **Open Source**
 
 
 

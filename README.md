@@ -52,16 +52,22 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 - 💻 The tech I'm interested Flutter/Android/Kotlin etc.
 - 📱Freelance Mobile App Developer at [Upwork](https://www.upwork.com/freelancers/~017030cd44ee04dabe)
 - 📷 I'm learning photography as well, checkout my [instagram here](https://instagram.com/waqas.png)
-- 🎨 [Dribbble](https://dribbble.com/waqas3343) profile
+- 🎨 [Dribbble](https://dribbble.com/waqas334_) profile
 
-#### Apps I developed
+#### Apps
 1. [Incognito Browser](https://incognitobrowser.app/) | Java, Kotlin | **2M+ Downloads**
 2. [Volume Booster](https://play.google.com/store/apps/details?id=com.umac.volumebooster) | Java | **100K+ Downloads**
-3. [Calculator Photo Vault](https://play.google.com/store/apps/details?id=com.androidbull.calculator.photo.vault) | Kotlin | **50K+ Downloads**
-4. [English Pronunciation](https://play.google.com/store/apps/details?id=com.androidbull.mypronounce) | Java, Kotlin, Firebase | **50K+ Downloads**
-5. [Meme Generator](https://play.google.com/store/apps/details?id=com.androidbull.meme.maker) | Kotlin, Firebase | **10K+ Downloads**
-6. [TownMesh - geo based social media app](https://townmesh.com) | Flutter, Firebase | **Upwork Project**
-7. [BiSell](https://github.com/waqas-334/BiSell) - a marketplace to buy/sell computer componenets | Flutter, Firebase | **Open Source**
+3. [Avatarist] (https://play.google.com/store/apps/details?id=com.businessapps.avatarmakerapp) | Dart | Flutter **100K+ Downloads**
+4. [Calculator Photo Vault](https://play.google.com/store/apps/details?id=com.androidbull.calculator.photo.vault) | Kotlin | **50K+ Downloads**
+5. [English Pronunciation](https://play.google.com/store/apps/details?id=com.androidbull.mypronounce) | Java, Kotlin, Firebase | **50K+ Downloads**
+6. [Meme Generator](https://play.google.com/store/apps/details?id=com.androidbull.meme.maker) | Kotlin, Firebase | **10K+ Downloads**
+7. [TownMesh - geo based social media app](https://townmesh.com) | Flutter, Firebase | **Upwork Project**
+8. [BiSell](https://github.com/waqas-334/BiSell) - a marketplace to buy/sell computer components | Flutter, Firebase | **Open Source**
+
+### Repos
+1. [HLS2MP4](https://github.com/waqas-334/HLS2MP4) | Library to resolve and download HLS files | Kotlin
+2. [MVVM TODO App](https://github.com/waqas-334/MVVM-TODO-Android-app) | A minimal Todo App | Kotlin
+
 
 
 
@@ -99,6 +105,6 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 </div>
 
 
-Open Source Contributor from <b>Pakistan<b> 💚 
+Open Source Contributor from <b>Canada<b> 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=waqas-334.waqas-334)

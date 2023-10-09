@@ -45,8 +45,7 @@ I’m a self-employed Mobile App Developer and I create blog posts regarding And
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/waqas-334/waqas-334/main/code_blue.png" width="320" height="320" />
 
-### Talking about my stuff:
-
+### Intro:
 - 🧑‍🎓 Studying Masters in Software Engineering at [MUN](https://mun.ca)
 - ✍ Technical writer at [Medium](https://medium.com/@waqasyounis334)
 - 💻 The tech I'm interested Flutter/Android/Kotlin etc.

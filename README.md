@@ -1,6 +1,6 @@
 ### Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> I'm  Waqas
 
-I’m a self-employed Mobile App Developer and I create blog posts regarding Android, Flutter, and Firebase on my weekends.
+I’m a Mobile App Developer and I create blog posts regarding Android, Flutter, and Firebase on my weekends.
 
 <div align="center">
 <p align="center">Let's connect!</p>

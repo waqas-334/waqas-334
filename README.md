@@ -41,7 +41,7 @@ I’m a Mobile App Developer and I create blog posts regarding Android, Flutter,
 </div> -->
 
 
-### A Student, Developer, Writer and Photographer 
+### A Developer, Writer and Photographer 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/waqas-334/waqas-334/main/code_blue.png" width="320" height="320" />
 
